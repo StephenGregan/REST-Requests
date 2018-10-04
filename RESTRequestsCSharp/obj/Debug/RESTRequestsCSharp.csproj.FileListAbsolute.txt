@@ -1,0 +1,7 @@
+C:\Users\Stephen\source\repos\RESTRequestsCSharp\RESTRequestsCSharp\bin\Debug\RESTRequestsCSharp.exe.config
+C:\Users\Stephen\source\repos\RESTRequestsCSharp\RESTRequestsCSharp\bin\Debug\RESTRequestsCSharp.exe
+C:\Users\Stephen\source\repos\RESTRequestsCSharp\RESTRequestsCSharp\bin\Debug\RESTRequestsCSharp.pdb
+C:\Users\Stephen\source\repos\RESTRequestsCSharp\RESTRequestsCSharp\obj\Debug\RESTRequestsCSharp.csprojAssemblyReference.cache
+C:\Users\Stephen\source\repos\RESTRequestsCSharp\RESTRequestsCSharp\obj\Debug\RESTRequestsCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\source\repos\RESTRequestsCSharp\RESTRequestsCSharp\obj\Debug\RESTRequestsCSharp.exe
+C:\Users\Stephen\source\repos\RESTRequestsCSharp\RESTRequestsCSharp\obj\Debug\RESTRequestsCSharp.pdb
